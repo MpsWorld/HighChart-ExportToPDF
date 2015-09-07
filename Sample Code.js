@@ -1,10 +1,10 @@
-To export HighCharts to PDF using JSPDF,canvg and Html2Canvas.
-TO export HighChart to PDF all you need to add references of below files
-	Html2Canvas js library
-	canvg Js library
-	JSPdf Js library 
-	JQuery Js library
-First Create Your HighChart on Page then Create a button name as export and call below function onclick event.
+//To export HighCharts to PDF using JSPDF,canvg and Html2Canvas.
+//TO export HighChart to PDF all you need to add references of below files
+//	Html2Canvas js library
+//	canvg Js library
+//	JSPdf Js library 
+//	JQuery Js library
+//First Create Your HighChart on Page then Create a button name as export and call below function onclick event.
 
 
  function exportChart() {
